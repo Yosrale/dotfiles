@@ -62,3 +62,6 @@
 [user]
 	email = yosra.letaief@gmail.com
 	name = Yosra Letaief
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
